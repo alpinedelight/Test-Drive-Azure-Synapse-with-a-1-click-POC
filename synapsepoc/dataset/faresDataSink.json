@@ -34,7 +34,7 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "fares-data.csv",
-				"fileSystem": "public"
+				"fileSystem": "root"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
