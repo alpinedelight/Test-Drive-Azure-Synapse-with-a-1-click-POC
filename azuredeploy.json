@@ -396,7 +396,9 @@
       "properties": {
         "accessTier": "Hot",
         "supportsHttpsTrafficOnly": true,
-        "isHnsEnabled": true
+        "allowBlobPublicAccess": false,
+        "isHnsEnabled": true,
+        "minimumTlsVersion": "TLS1_2"
       },
       "resources": [
         {
